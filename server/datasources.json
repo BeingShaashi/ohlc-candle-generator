@@ -1,0 +1,19 @@
+{
+  "OHLC_DB": {
+    "name": "OHLC_DB",
+    "localStorage": "",
+    "file": "",
+    "connector": "memory"
+  },
+  "OHLC_MONGODB": {
+    "host": "",
+    "port": 0,
+    "url": "",
+    "database": "",
+    "password": "",
+    "name": "OHLC_MONGODB",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
